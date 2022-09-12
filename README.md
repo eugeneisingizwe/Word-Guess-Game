@@ -32,6 +32,8 @@ The completed application meets the following criteria:
 
 ## Deplay Web Page
 
+https://eugeneisingizwe.github.io/Word-Guess-Game/
+
 ## Screen Shot
 
 ![A user clicks thro](./Develop/assets/Image/screenshot.png)
